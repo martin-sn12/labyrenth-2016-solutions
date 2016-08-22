@@ -5,17 +5,6 @@
 #include <windows.h>
 #include <cstdio>
 
-int hash_string(char* str) {
-	int result = 0;
-
-	for (int i = 0; i < strlen(str); i++) {
-		result = _rotr(result, 13);
-		result += str[i];
-	}
-
-	return result;
-}
-
 // example key:
 // b00!4oMB@i^
 // ----???????
