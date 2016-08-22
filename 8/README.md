@@ -1,0 +1,1 @@
+Level #8 was solved by reading the output in IDA, as the key was simply scrambled with some arithmetic operations. No debugging needed.

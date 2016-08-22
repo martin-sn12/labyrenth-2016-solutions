@@ -1,0 +1,1 @@
+Level #5 was incredibly easy, as all it took was to read the .NET code and calculate 3 colors with simple algebra. No code was used.

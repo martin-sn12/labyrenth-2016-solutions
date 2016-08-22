@@ -1,0 +1,1 @@
+This challenge was solved by reading the .NET decompiled code and clicking the required buttons, so there was no code involved.

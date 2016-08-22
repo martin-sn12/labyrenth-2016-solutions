@@ -1,0 +1,1 @@
+Level #9 was completed by manually unpacking the Delphi executable (which was quite easy) and then looking at the output with IDA. Same obfuscation as #8, simple arithmetic.

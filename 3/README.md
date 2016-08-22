@@ -1,0 +1,1 @@
+This challenge was solved by stepping through the program and patching jumps, so there was no code involved.
